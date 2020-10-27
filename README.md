@@ -5,4 +5,5 @@ ArrayList(Java)
 SingleLinkedLIst(Java)
 Stack(C++)
 Queue(C++)
+LinkedList(C++_
 
